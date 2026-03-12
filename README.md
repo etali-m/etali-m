@@ -98,4 +98,4 @@ Vue.js, Vite
 ## 📫 Contact
 
 - GitHub: https://github.com/etali-m
-- LinkedIn: (add your LinkedIn)
+- LinkedIn: [profil](https://www.linkedin.com/in/mathias-etali-9564871b6/)
